@@ -1,0 +1,5 @@
+favorite movie: The Godfather,
+favorite sitcom: Friends,
+favorite food: pasta,
+favorite season: autumn,
+country to travel: Italy	
